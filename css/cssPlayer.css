@@ -1,0 +1,33 @@
+/*cssPlayer css*/
+
+.css-player.play-controls {
+    position: relative;
+    /*border: 1px solid blue;*/
+}
+
+.css-player.play-controls .previous-container {
+    width: 33%;
+    float: left;
+}
+
+.css-player.play-controls .current-container {
+    width: 33%;
+    float: left;
+}
+
+.css-player.play-controls .next-container {
+    width: 33%;
+    float: left;
+}
+
+.css-player.play-controls del {
+    color: red;
+}
+
+.css-player.play-controls ins {
+    color: green;
+}
+
+.css-player.play-controls i.fa {
+    margin-right: 10px;
+}
